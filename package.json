@@ -1,0 +1,14 @@
+{
+  "name": "react-step-by-step",
+  "version": "1.0.0",
+  "description": "React Step by Step",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "atbserg",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.4"
+  }
+}
